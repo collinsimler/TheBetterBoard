@@ -41,7 +41,7 @@ public class LambdaEntryPoint :
     /// <param name="builder"></param>
     protected override void Init(IHostBuilder builder)
     {
-
+        //something should probs be here???
 
     }
 }
