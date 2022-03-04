@@ -459,19 +459,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karlz\\.nuget\\packages\\": {}
+    "C:\\Users\\ericb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karlz\\source\\repos\\TheBetterBoard\\WebApp\\TheBetterBoard\\TheBetterBoard\\TheBetterBoard.csproj",
+      "projectUniqueName": "C:\\Users\\ericb\\source\\repos\\TheBetterBoard\\WebApp\\TheBetterBoard\\TheBetterBoard\\TheBetterBoard.csproj",
       "projectName": "TheBetterBoard",
-      "projectPath": "C:\\Users\\karlz\\source\\repos\\TheBetterBoard\\WebApp\\TheBetterBoard\\TheBetterBoard\\TheBetterBoard.csproj",
-      "packagesPath": "C:\\Users\\karlz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karlz\\source\\repos\\TheBetterBoard\\WebApp\\TheBetterBoard\\TheBetterBoard\\obj\\",
+      "projectPath": "C:\\Users\\ericb\\source\\repos\\TheBetterBoard\\WebApp\\TheBetterBoard\\TheBetterBoard\\TheBetterBoard.csproj",
+      "packagesPath": "C:\\Users\\ericb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ericb\\source\\repos\\TheBetterBoard\\WebApp\\TheBetterBoard\\TheBetterBoard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\karlz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ericb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
